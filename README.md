@@ -47,11 +47,15 @@ server/
 #
 .env는 보안을위해 따로 보관하게끔 설계하여 
 이미지로 웹을 보여드리겠습니다.
+
+index
 <img width="610" height="287" alt="image" src="https://github.com/user-attachments/assets/729fedfe-a762-4207-bb9e-107ef9c58a0b" />
+
 #
 레벨 랭킹 시스템
 
 <img width="471" height="911" alt="image" src="https://github.com/user-attachments/assets/3cec063d-4da0-4b3f-9eb7-0e6fd1cf5b64" />
+
 #
 
 생활랭킹 시스템
