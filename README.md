@@ -1,4 +1,4 @@
-<img width="1101" height="685" alt="image" src="https://github.com/user-attachments/assets/755db5a4-60d2-4c6a-95b9-5f559fa5cb6b" />안녕하세요 홍승현입니다.
+안녕하세요 홍승현입니다.
 
 게임 유저의 **레벨 랭킹 / 생활 랭킹(낚시·벌목·채광·채집·보물찾기)** 을  
 MariaDB에서 조회해 Nuxt 3 웹작동하는 포트폴리오 프로젝트입니다.
