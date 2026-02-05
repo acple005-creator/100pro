@@ -13,16 +13,6 @@ MariaDB
 
 mysql2/promise
 #
-
-<img width="924" height="430" alt="image" src="https://github.com/user-attachments/assets/09076e81-1b08-4f8c-85dc-ff9fe846bd03" />
-
-MariaDB를 통해 랜덤데이터를 생성하여 api를 가져왔습니다.
-
-<img width="426" height="371" alt="image" src="https://github.com/user-attachments/assets/a91f9d46-52b0-4bd1-bc5a-e661d382e5e7" />
-
-#
-#
-
 폴더 구조입니다.
 ```
 app/
@@ -44,6 +34,17 @@ server/
       level.get.ts
       life.get.ts
 ```
+#
+
+<img width="924" height="430" alt="image" src="https://github.com/user-attachments/assets/09076e81-1b08-4f8c-85dc-ff9fe846bd03" />
+
+
+MariaDB를 통해 랜덤데이터를 생성하여 api를 가져왔습니다.
+
+<img width="282" height="213" alt="image" src="https://github.com/user-attachments/assets/641529bf-a76f-4c38-9108-ad2a2cc0ba00" />
+
+<img width="426" height="371" alt="image" src="https://github.com/user-attachments/assets/a91f9d46-52b0-4bd1-bc5a-e661d382e5e7" />
+
 #
 #
 .env는 보안을위해 따로 보관하게끔 설계하여 
