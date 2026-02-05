@@ -41,8 +41,15 @@ server/
 
 MariaDB를 통해 랜덤데이터를 생성하여 api를 가져왔습니다.
 
-<img width="282" height="213" alt="image" src="https://github.com/user-attachments/assets/641529bf-a76f-4c38-9108-ad2a2cc0ba00" />
-
+```
+server/
+  utils/
+    db.ts
+  api/
+    ranking/
+      level.get.ts
+      life.get.ts
+``` 
 <img width="426" height="371" alt="image" src="https://github.com/user-attachments/assets/a91f9d46-52b0-4bd1-bc5a-e661d382e5e7" />
 
 #
