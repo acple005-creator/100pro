@@ -19,6 +19,7 @@ mysql2/promise
 MariaDB를 통해 랜덤데이터를 생성하여 api를 가져왔습니다.
 
 <img width="426" height="371" alt="image" src="https://github.com/user-attachments/assets/a91f9d46-52b0-4bd1-bc5a-e661d382e5e7" />
+
 #
 #
 
