@@ -1,4 +1,4 @@
-안녕하세요 홍승현입니다.
+<img width="1101" height="685" alt="image" src="https://github.com/user-attachments/assets/755db5a4-60d2-4c6a-95b9-5f559fa5cb6b" />안녕하세요 홍승현입니다.
 
 게임 유저의 **레벨 랭킹 / 생활 랭킹(낚시·벌목·채광·채집·보물찾기)** 을  
 MariaDB에서 조회해 Nuxt 3 웹작동하는 포트폴리오 프로젝트입니다.
@@ -19,6 +19,8 @@ mysql2/promise
 MariaDB를 통해 랜덤데이터를 생성하여 api를 가져왔습니다.
 
 <img width="426" height="371" alt="image" src="https://github.com/user-attachments/assets/a91f9d46-52b0-4bd1-bc5a-e661d382e5e7" />
+#
+#
 
 폴더 구조입니다.
 ```
@@ -41,6 +43,8 @@ server/
       level.get.ts
       life.get.ts
 ```
+#
+#
 .env는 보안을위해 따로 보관하게끔 설계하여 
 이미지로 웹을 보여드리겠습니다.
 <img width="610" height="287" alt="image" src="https://github.com/user-attachments/assets/729fedfe-a762-4207-bb9e-107ef9c58a0b" />
