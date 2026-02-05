@@ -50,10 +50,11 @@ server/
 <img width="610" height="287" alt="image" src="https://github.com/user-attachments/assets/729fedfe-a762-4207-bb9e-107ef9c58a0b" />
 #
 레벨 랭킹 시스템
+
 <img width="471" height="911" alt="image" src="https://github.com/user-attachments/assets/3cec063d-4da0-4b3f-9eb7-0e6fd1cf5b64" />
+#
 
 생활랭킹 시스템
-#
 <img width="317" height="282" alt="image" src="https://github.com/user-attachments/assets/28c0cf65-4508-456a-b895-4df0cf57b642" />
 <img width="449" height="911" alt="image" src="https://github.com/user-attachments/assets/05ed5f2c-4b45-490f-a20f-eef635cda0a8" />
 
