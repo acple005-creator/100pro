@@ -5,7 +5,7 @@ MariaDB에서 조회해 Nuxt 3 웹작동하는 포트폴리오 프로젝트입�
 
 사용 기술 스택
 
-Nuxt 3 / Vue 3 / TypeScript
+Nuxt 3 / Vue 3 / TypeScript / css
 
 Nitro Server API (h3)
 
