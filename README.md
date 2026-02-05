@@ -12,6 +12,7 @@ Nitro Server API (h3)
 MariaDB
 
 mysql2/promise
+#
 
 <img width="924" height="430" alt="image" src="https://github.com/user-attachments/assets/09076e81-1b08-4f8c-85dc-ff9fe846bd03" />
 
