@@ -60,7 +60,7 @@ index
 
 생활랭킹 시스템
 
-<img width="317" height="282" alt="image" src="https://github.com/user-attachments/assets/28c0cf65-4508-456a-b895-4df0cf57b642" />
 <img width="449" height="911" alt="image" src="https://github.com/user-attachments/assets/05ed5f2c-4b45-490f-a20f-eef635cda0a8" />
+<img width="317" height="282" alt="image" src="https://github.com/user-attachments/assets/28c0cf65-4508-456a-b895-4df0cf57b642" />
 
 
