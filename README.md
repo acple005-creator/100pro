@@ -49,6 +49,7 @@ server/
 이미지로 웹을 보여드리겠습니다.
 
 index
+
 <img width="610" height="287" alt="image" src="https://github.com/user-attachments/assets/729fedfe-a762-4207-bb9e-107ef9c58a0b" />
 
 #
