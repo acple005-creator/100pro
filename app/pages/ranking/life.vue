@@ -121,20 +121,25 @@ const typeLabel = computed(() => ({
   gathering: "채집",
   treasure_hunt: "보물찾기",
 }))
-function selectType(v) {
+function selectType(v: LifeType) {
   type.value = v
   open.value = false
   doSearch()
 }
+
 onMounted(() => {
-  const onDoc = (e) => {
+  const onDoc = (e: MouseEvent) => {
     const el = ddRef.value
     if (!el) return
-    if (!el.contains(e.target)) open.value = false
+    if (!el.contains(e.target as Node)) {
+      open.value = false
+    }
   }
-  document.addEventListener("mousedown", onDoc)
-  onBeforeUnmount(() => {
-    document.removeEventListener("mousedown", onDoc)
+
+  document.addEventListener("click", onDoc)
+
+  onUnmounted(() => {
+    document.removeEventListener("click", onDoc)
   })
 })
 
